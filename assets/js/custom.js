@@ -17,7 +17,7 @@
         });
     });
     /* Backstretch */
-    $.backstretch('assets/images/background/home.png');
+    $.backstretch('assets/images/background/home.jpg');
     /* Animation Backstretch On Page Load */
     $(window).scrollTop() > $(window).height() ? $(".backstretch").fadeOut("slow") : $(".backstretch").fadeIn("slow");
     /* Animation Navbar On Page Load */
@@ -97,7 +97,7 @@
     });
     /* Init Text Rotator */
     $(".description .sub").typed({
-        strings: ["Web Developer", "Full Stack Developer", "Mubin"],
+        strings: ["Web Developer", "Full Stack Developer"],
         typeSpeed: 1,
         backSpeed: 1,
         backDelay: 1400,
