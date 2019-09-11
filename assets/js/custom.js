@@ -97,7 +97,7 @@
     });
     /* Init Text Rotator */
     $(".description .sub").typed({
-        strings: ["Front End Developer", "Front End Developer"],
+        strings: ["Front End Developer", "Full Stack Developer"],
         typeSpeed: 1,
         backSpeed: 1,
         backDelay: 1400,
