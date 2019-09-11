@@ -630,7 +630,7 @@
           <li class="wow zoomIn" data-wow-delay="0.4s" data-wow-duration="1s"><a href="#link"><i class="fa fa-dribbble fa-fw"></i></a></li>
           <li class="wow zoomIn" data-wow-delay="0.5s" data-wow-duration="1s"><a href="#link"><i class="fa fa-linkedin fa-fw"></i></a></li>
         </ul>
-        <p class="text-center">&copy; 2016 - All rights reserved</p>
+        <p class="text-center">&copy; <?php echo date('Y') ?> - All rights reserved</p>
       </div>
     </footer>
     <!-- end:footer -->
